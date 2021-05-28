@@ -1,16 +1,38 @@
-### Hi there 👋
+ ### Hello World 🌍 I'm [Martin Mugambi!](https://www.linkedin.com/in/martin-mwenda-46a328184/) 👋
 
-<!--
-**MartinMugambi/MartinMugambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://youtube.com/abdulazizahwanID">
+  <img align="left" alt="MartinMugambi | YouTube" width="24px" src="/assets/youtube.svg"/>
+</a>
+<a href="https://twitter.com/marto_dev">
+  <img align="left" alt="MartinMugambi  | Twitter" width="24px" src="/assets/twitter.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/martin-mwenda-46a328184/">
+  <img align="left" alt="MartinMugambi" width="24px" src="/assets/icons8-linkedin-512.png"/>
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Android-dev, Flutter & Front End Web Enthusiast from Kenya <img width="21px" src="/assets/icons8-kenya-48.png" style="margin-left:4px"/>
+
+- 👨‍💻 I’m currently working on project [Flutter Movie Application]()
+- 📚 I’m currently learning FrontEnd Framework & Flutter
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinMugambi&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+<br/>
+
+**Languages and Tools:**
+
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
+<br/>
+
+<br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMugambi&layout=compact&theme=algolia"/>
