@@ -1,6 +1,6 @@
  ### Hello World 🌍 I'm [Martin Mugambi!](https://www.linkedin.com/in/martin-mwenda-46a328184/) 👋
 
-<a href="https://youtube.com/abdulazizahwanID">
+<a href="https://www.youtube.com/channel/UCKApknp938ukpoQCp6JE-HA">
   <img align="left" alt="MartinMugambi | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
 <a href="https://twitter.com/marto_dev">
