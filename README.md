@@ -13,10 +13,10 @@
 <br />
 <br />
 
-I am an Android-dev, Flutter & Front End Web Enthusiast from Kenya <img width="21px" src="/assets/icons8-kenya-48.png" style="margin-left:4px"/>
+I am a & Front End Developer from Kenya <img width="21px" src="/assets/icons8-kenya-48.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project [Flutter GameX Application](https://github.com/MartinMugambi/GameX)
-- 📚 I’m currently learning FrontEnd Framework & Flutter
+- 📚 I’m currently learning Golang
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinMugambi&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
