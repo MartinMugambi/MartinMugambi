@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am a & Front End Developer from Kenya <img width="21px" src="/assets/icons8-kenya-48.png" style="margin-left:4px"/>
+I am a Full Stack Developer from Kenya <img width="21px" src="/assets/icons8-kenya-48.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project [Flutter GameX Application](https://github.com/MartinMugambi/GameX)
 - 📚 I’m currently learning Golang
